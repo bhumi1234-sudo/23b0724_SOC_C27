@@ -6,3 +6,6 @@
 [SOC.Linked List.docx](https://github.com/user-attachments/files/15988693/SOC.Linked.List.docx)
 [SOC.Binary Tree.docx](https://github.com/user-attachments/files/15988695/SOC.Binary.Tree.docx)
 [SOC.Stack.docx](https://github.com/user-attachments/files/15988698/SOC.Stack.docx)
+[BINARY TREE.pdf](https://github.com/user-attachments/files/16380737/BINARY.TREE.pdf)
+[Graphs.pdf](https://github.com/user-attachments/files/16380778/Graphs.pdf)
+[Heaps.pdf](https://github.com/user-attachments/files/16380760/Heaps.pdf)
